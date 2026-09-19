@@ -1,0 +1,13 @@
+# {
+# "registry-mirrors": [
+#   "https://docker.xuanyuan.me",
+#   "https://docker.1ms.run",
+#   "https://docker.m.daocloud.io"
+#  ]
+# }{
+# "registry-mirrors": [
+#   "https://docker.xuanyuan.me",
+#   "https://docker.1ms.run",
+#   "https://docker.m.daocloud.io"
+#  ]
+# }
