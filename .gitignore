@@ -28,6 +28,11 @@ llm_env/
 *.bin
 *.safetensors
 
+# Large datasets
+003Machine*learning/day0818数学基础/data/train.csv
+004Deep-learning/data/fashion-mnist_train.csv
+005NLP/day0901/data/sgns.weibo.word.bz2
+
 # Logs
 *.log
 
